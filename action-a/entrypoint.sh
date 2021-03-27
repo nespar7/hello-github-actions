@@ -1,1 +1,1 @@
-sh -c "echo Hello World! My name is $input_my_name"
+sh -c "echo Hello World! My name is $INPUT_MY_NAME"
